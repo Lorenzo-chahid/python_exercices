@@ -1,4 +1,4 @@
-# Exercice de gestionnaire de tâche
+# Exercice de gestionnaire de tâche (to-do-list)
 
 ## Instructions
 
@@ -72,10 +72,17 @@ class PythonTest:
 
 ````
 
+Alors libre à vous de coder comme vous le voulez ! Je pense que vous aurez besoin de pas mal de while en python.
 
+Vous pouvez cloner le repo et push sur vos branch respective ou m'envoyer vos codes, 
+
+Je mettrais ma solution lundi (histoire d'avoir le temps de préparer la suite et je commencerais avec 1 exercices par semaine, puis on verra la suite )
 
 
 Enjoy et bon code à tous ;) 
+
+
+ps: n'hésitez pas à venir me demander si besoin d'un conseil ou si vous bloquez sur votre code 
 
 
 
